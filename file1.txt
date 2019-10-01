@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is BCA1-1660
+
+ Directory of C:\Users\User\Tuesday
+
+01/10/2019  15:29    <DIR>          .
+01/10/2019  15:29    <DIR>          ..
+01/10/2019  15:29                 0 file1.txt
+01/10/2019  15:27                 9 README.md
+               2 File(s)              9 bytes
+               2 Dir(s)  93.495.033.856 bytes free
